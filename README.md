@@ -4,11 +4,11 @@
 
 # Full-Stack Web Developer
 
-Hello, I'm Ramashish, a passionate full-stack web developer with expertise in building dynamic and scalable web applications. With a solid foundation in JavaScript, HTML, CSS, and experience in server-side development with Node.js, Express.js, and database management with MongoDB, I strive to create efficient and user-friendly web solutions.
+Hello, I'm Ramashish, a passionate full-stack web developer with expertise in building dynamic and scalable web applications. With a solid foundation in JavaScript, React JS, HTML, CSS, and experience in server-side development with Node.js, Express.js, and database management with MongoDB, I strive to create efficient and user-friendly web solutions.
 
 ## Skills
 
-- **Frontend Development**: Proficient in crafting responsive and interactive user interfaces using HTML, CSS, and JavaScript.
+- **Frontend Development**: Proficient in crafting responsive and interactive user interfaces using React JS, HTML, CSS, and JavaScript.
 - **Backend Development**: Experienced in building server-side applications with Node.js and Express.js, handling routing, middleware, and RESTful APIs.
 - **Database Management**: Skilled in designing and implementing MongoDB databases, including schema design, indexing, and CRUD operations.
 - **Template Engines**: Familiar with using EJS (Embedded JavaScript) for server-side templating, facilitating dynamic content generation.
