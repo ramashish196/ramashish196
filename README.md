@@ -4,7 +4,7 @@
 
 # Full-Stack Web Developer
 
-Hello, I'm Ramashish, a passionate full-stack web developer with expertise in building dynamic and scalable web applications. With a solid foundation in JavaScript, React JS, HTML, CSS, and experience in server-side development with Node.js, Express.js, and database management with MongoDB, I strive to create efficient and user-friendly web solutions.
+Hello, I'm Ramashish, a passionate full-stack (MERN) web developer with expertise in building dynamic and scalable web applications. With a solid foundation in JavaScript, React JS, HTML, CSS, and experience in server-side development with Node.js, Express.js, and database management with MongoDB, I strive to create efficient and user-friendly web solutions.
 
 ## Skills
 
